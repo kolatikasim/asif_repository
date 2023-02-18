@@ -1,0 +1,9 @@
+{
+	"name": "adf3-asif",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f52554e6-00d1-417c-a6de-8ff71d1cc116",
+		"tenantId": "0f187933-f480-4b71-adf4-7e8ba49d5493"
+	}
+}
