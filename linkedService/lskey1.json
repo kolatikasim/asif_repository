@@ -1,0 +1,11 @@
+{
+	"name": "lskey1",
+	"properties": {
+		"description": "lskey1",
+		"annotations": [],
+		"type": "AzureKeyVault",
+		"typeProperties": {
+			"baseUrl": "https://parveen-key.vault.azure.net/"
+		}
+	}
+}
